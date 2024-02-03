@@ -60,3 +60,12 @@ a:hover{
     top: 0;
     left: 0;
 }
+.add-info-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding-top: 20px;
+}
+.add-info-container img{
+    border-radius: 5px;
+}
